@@ -8,7 +8,7 @@ PhD. Trần Duy Hoàng
 MSc. Trương Phước Lộc 
 MSc. Hồ Tuấn 
 
-### Group 13 - 21KTPM2 (Semester 3 / 2023-2024)
+### Group 13 - 21KTPM2 (Semester 2 / 2022-2023)
 21127234_Nguyễn Lê Anh Chi
 21127235_Nguyễn Xuân Quỳnh Chi
 21127495_Lê Ngô Song Cát
