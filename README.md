@@ -3,10 +3,10 @@ Full software testing case study for the ShareBug Test Management Website, cover
 
 The project for the course **Software Testing - CSC13003 - HCMUS**
 ### Instructors 
-MSc. Trần Thị Bích Hạnh
-PhD. Trần Duy Hoàng
-MSc. Trương Phước Lộc 
-MSc. Hồ Tuấn 
+- MSc. Trần Thị Bích Hạnh
+- PhD. Trần Duy Hoàng
+- MSc. Trương Phước Lộc 
+- MSc. Hồ Tuấn Thanh
 
 ### Group 13 - 21KTPM2 (Semester 2 / 2022-2023)
 21127234_Nguyễn Lê Anh Chi
