@@ -22,5 +22,5 @@ The files in the folders
 are corrupted.  
 
 Please use the link below to view the original files.
-- Drive link: https://drive.google.com/drive/folders/1D5_UEeg2E6aMvqdSJiNSw5D6WcMM3_la?usp=sharing
+- Link: https://drive.google.com/drive/folders/1D5_UEeg2E6aMvqdSJiNSw5D6WcMM3_la?usp=sharing
 
