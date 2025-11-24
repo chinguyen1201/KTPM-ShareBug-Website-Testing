@@ -13,3 +13,6 @@ The project for the course **Software Testing - CSC13003 - HCMUS**
 - 21127235_Nguyễn Xuân Quỳnh Chi
 - 21127495_Lê Ngô Song Cát
 - 21127659_Bùi Ngọc Kiều Nhi
+
+### Important notes
+
