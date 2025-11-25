@@ -26,4 +26,6 @@ Please use the link below to view the original files.
 - Link: https://drive.google.com/drive/folders/1D5_UEeg2E6aMvqdSJiNSw5D6WcMM3_la?usp=sharing
 #### Note 2
 The file *Assignment/Requirements-07.pdf* is broken, refer to the original file outside the folder. 
+#### Note 3 
+Requirement 7 – API testing was not completed.
 
